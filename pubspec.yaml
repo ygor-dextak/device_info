@@ -1,5 +1,5 @@
 name: info_device
-description: "A new Flutter plugin project."
+description: "Um plugin flutter que se comunica com a plataforma android para obter os dados do dispositivo"
 version: 0.0.1
 homepage:
 
